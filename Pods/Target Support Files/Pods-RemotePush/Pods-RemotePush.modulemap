@@ -1,0 +1,6 @@
+framework module Pods_RemotePush {
+  umbrella header "Pods-RemotePush-umbrella.h"
+
+  export *
+  module * { export * }
+}
